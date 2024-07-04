@@ -1,1 +1,1 @@
-Java diliyle Mayın tarlası oyunu kodlaaması
+Java diliyle Mayın tarlası oyunu kodlaması
